@@ -36,9 +36,9 @@ assetsSummary:
   - ElectricalSeries
   - ProcessingModule
   - ElectrodeGroup
-citation: Ramachandran, Sandhya (2023) Electrophysiological Recordings in Anesthetized
-  Rats in the Primary Somatosensory Cortex with Trials of Phased Ultrasound Array
-  Stimulation (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000463/draft
+citation: Ramachandran, Sandhya; He, Bin; Yu, Kai; Gao, Huan (2023) Electrophysiological
+  Recordings in Anesthetized Rats in the Primary Somatosensory Cortex with Phased
+  Ultrasound Array Stimulation (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000463/draft
 contributor:
 - affiliation: []
   email: s.ramachandran8@gmail.com
@@ -47,6 +47,42 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: He, Bin
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Yu, Kai
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Gao, Huan
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- contactPoint: []
+  includeInCitation: false
+  name: NIH NS124564
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- contactPoint: []
+  includeInCitation: false
+  name: NIH EB029354
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- contactPoint: []
+  includeInCitation: false
+  name: Carnegie Mellon University
+  roleName:
+  - dcite:Affiliation
+  schemaKey: Organization
 dateCreated: '2023-03-23T01:45:58.892864+00:00'
 description: 'In these recordings, we test different intensities and PRFs (pulse repetition
   frequencies) of ultrasound stimulation using a phased ultrasound array to stimulate
@@ -62,7 +98,7 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000463/versions/draft/assets/
 name: Electrophysiological Recordings in Anesthetized Rats in the Primary Somatosensory
-  Cortex with Trials of Phased Ultrasound Array Stimulation
+  Cortex with Phased Ultrasound Array Stimulation
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org

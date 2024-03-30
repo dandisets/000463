@@ -36,9 +36,9 @@ assetsSummary:
   - LFP
   - ElectricalSeries
   - ProcessingModule
-citation: Ramachandran, Sandhya; He, Bin; Yu, Kai; Gao, Huan (2023) Electrophysiological
+citation: Ramachandran, Sandhya; He, Bin; Yu, Kai; Gao, Huan (2024) Electrophysiological
   Recordings in Anesthetized Rats in the Primary Somatosensory Cortex with Phased
-  Ultrasound Array Stimulation (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  Ultrasound Array Stimulation (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000463/draft
 contributor:
 - affiliation: []
   email: s.ramachandran8@gmail.com
@@ -46,6 +46,7 @@ contributor:
   name: Ramachandran, Sandhya
   roleName:
   - dcite:ContactPerson
+  - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
@@ -84,13 +85,11 @@ contributor:
   - dcite:Affiliation
   schemaKey: Organization
 dateCreated: '2023-03-23T01:45:58.892864+00:00'
-datePublished: '2023-05-02T21:23:09.404959+00:00'
 description: 'In these recordings, we test different intensities and PRFs (pulse repetition
   frequencies) of ultrasound stimulation using a phased ultrasound array to stimulate
   the somatosensory cortex of rats anesthetized with 2% isoflurane through inhalation.
   Recordings are taken using 32 channel Neuronexus electrodes. Ultrasound stimulation
   is delivered every 2.5 seconds, and each recording has either 200 or 500 trials. '
-doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000463/draft
 identifier: DANDI:000463
@@ -102,18 +101,6 @@ manifestLocation:
 name: Electrophysiological Recordings in Anesthetized Rats in the Primary Somatosensory
   Cortex with Phased Ultrasound Array Stimulation
 protocol: []
-publishedBy:
-  endDate: '2023-05-02T21:23:09.404959+00:00'
-  id: urn:uuid:1409e156-bbf7-4ef1-89cc-76bd14bddd14
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2023-05-02T21:23:09.404959+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:10dce6dd-edb4-436f-80c0-3e36b67b9677
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset

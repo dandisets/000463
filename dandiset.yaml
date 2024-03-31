@@ -95,7 +95,7 @@ id: DANDI:000463/draft
 identifier: DANDI:000463
 keywords: []
 license:
-- spdx:CC0-1.0
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000463/versions/draft/assets/
 name: Electrophysiological Recordings in Anesthetized Rats in the Primary Somatosensory

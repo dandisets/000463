@@ -16,13 +16,13 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: multi electrode extracellular electrophysiology recording technique
-    schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  - name: signal filtering technique
+  - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  - name: signal filtering technique
     schemaKey: MeasurementTechniqueType
   numberOfBytes: 64199969632
   numberOfFiles: 29
@@ -33,13 +33,13 @@ assetsSummary:
     name: Rattus norvegicus - Norway rat
     schemaKey: SpeciesType
   variableMeasured:
-  - ElectrodeGroup
   - LFP
   - ElectricalSeries
   - ProcessingModule
-citation: Ramachandran, Sandhya; He, Bin; Yu, Kai; Gao, Huan (2024) Electrophysiological
+  - ElectrodeGroup
+citation: Ramachandran, Sandhya; Gao, Huan; Yu, Kai; He, Bin (2025) Electrophysiological
   Recordings in Anesthetized Rats in the Primary Somatosensory Cortex with Phased
-  Ultrasound Array Stimulation (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000463/draft
+  Ultrasound Array Stimulation (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000463/draft
 contributor:
 - affiliation: []
   email: s.ramachandran8@gmail.com
@@ -51,7 +51,7 @@ contributor:
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: He, Bin
+  name: Gao, Huan
   roleName:
   - dcite:Author
   schemaKey: Person
@@ -63,7 +63,7 @@ contributor:
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Gao, Huan
+  name: He, Bin
   roleName:
   - dcite:Author
   schemaKey: Person

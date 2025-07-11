@@ -39,7 +39,8 @@ assetsSummary:
   - ElectrodeGroup
 citation: Ramachandran, Sandhya; Gao, Huan; Yu, Kai; He, Bin (2025) Electrophysiological
   Recordings in Anesthetized Rats in the Primary Somatosensory Cortex with Phased
-  Ultrasound Array Stimulation (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000463/draft
+  Ultrasound Array Stimulation (Version 0.250711.1756) [Data set]. DANDI Archive.
+  https://doi.org/10.48324/dandi.000463/0.250711.1756
 contributor:
 - affiliation: []
   email: s.ramachandran8@gmail.com
@@ -97,13 +98,14 @@ description: In these recordings, we test different intensities and PRFs (pulse 
   S., Yu, K., and He, B. (2025). Transcranial Focused Ultrasound Modulates Feedforward
   and Feedback Cortico-Thalamo-Cortical Pathways by Selectively Activating Excitatory
   Neurons. J Neurosci 45. https://doi.org/10.1523/JNEUROSCI.2218-24.2025.
+doi: 10.48324/dandi.000463/0.250711.1756
 ethicsApproval: []
-id: DANDI:000463/draft
+id: DANDI:000463/0.250711.1756
 identifier: DANDI:000463
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000463/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000463/0.250711.1756/assets.yaml
 name: Electrophysiological Recordings in Anesthetized Rats in the Primary Somatosensory
   Cortex with Phased Ultrasound Array Stimulation
 publishedBy:
@@ -122,6 +124,6 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
-url: https://dandiarchive.org/dandiset/000463/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000463/0.250711.1756
+version: 0.250711.1756
 wasGeneratedBy: []

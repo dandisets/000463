@@ -86,27 +86,42 @@ contributor:
   - dcite:Affiliation
   schemaKey: Organization
 dateCreated: '2023-03-23T01:45:58.892864+00:00'
-description: 'In these recordings, we test different intensities and PRFs (pulse repetition
+datePublished: '2025-07-11T17:56:13.499575+00:00'
+description: In these recordings, we test different intensities and PRFs (pulse repetition
   frequencies) of ultrasound stimulation using a phased ultrasound array to stimulate
   the somatosensory cortex of rats anesthetized with 2% isoflurane through inhalation.
   Recordings are taken using 32 channel Neuronexus electrodes. Ultrasound stimulation
-  is delivered every 2.5 seconds, and each recording has either 200 or 500 trials. '
+  is delivered every 2.5 seconds, and each recording has either 200 or 500 trials.
+  Detailed description about this dataset can be found in the following publication.
+  Please cite the paper if you would use a portion of the dataset. Gao, H., Ramachandran,
+  S., Yu, K., and He, B. (2025). Transcranial Focused Ultrasound Modulates Feedforward
+  and Feedback Cortico-Thalamo-Cortical Pathways by Selectively Activating Excitatory
+  Neurons. J Neurosci 45. https://doi.org/10.1523/JNEUROSCI.2218-24.2025.
 ethicsApproval: []
 id: DANDI:000463/draft
 identifier: DANDI:000463
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000463/versions/draft/assets/
 name: Electrophysiological Recordings in Anesthetized Rats in the Primary Somatosensory
   Cortex with Phased Ultrasound Array Stimulation
-protocol: []
+publishedBy:
+  endDate: '2025-07-11T17:56:13.499575+00:00'
+  id: urn:uuid:c8ba7cc8-97cb-4df0-83e1-eef0d7df8a76
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-07-11T17:56:13.499575+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:f45ba790-80d1-48e5-bd74-9ec9d8cfe83a
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
-studyTarget: []
 url: https://dandiarchive.org/dandiset/000463/draft
 version: draft
 wasGeneratedBy: []

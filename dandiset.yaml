@@ -39,8 +39,8 @@ assetsSummary:
   - ElectrodeGroup
 citation: Ramachandran, Sandhya; Gao, Huan; Yu, Kai; He, Bin (2025) Electrophysiological
   Recordings in Anesthetized Rats in the Primary Somatosensory Cortex with Phased
-  Ultrasound Array Stimulation (Version 0.250711.1947) [Data set]. DANDI Archive.
-  https://doi.org/10.48324/dandi.000463/0.250711.1947
+  Ultrasound Array Stimulation (Version 0.250828.1934) [Data set]. DANDI Archive.
+  https://doi.org/10.48324/dandi.000463/0.250828.1934
 contributor:
 - affiliation: []
   email: s.ramachandran8@gmail.com
@@ -86,8 +86,12 @@ contributor:
   roleName:
   - dcite:Affiliation
   schemaKey: Organization
+- name: RF1NS131069
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2023-03-23T01:45:58.892864+00:00'
-datePublished: '2025-07-11T19:47:49.116802+00:00'
+datePublished: '2025-08-28T19:34:15.908938+00:00'
 description: In these recordings, we test different intensities and PRFs (pulse repetition
   frequencies) of ultrasound stimulation using a phased ultrasound array to stimulate
   the somatosensory cortex of rats anesthetized with 2% isoflurane through inhalation.
@@ -98,24 +102,24 @@ description: In these recordings, we test different intensities and PRFs (pulse 
   S., Yu, K., & He, B. (2025). Transcranial Focused Ultrasound Modulates Feedforward
   and Feedback Cortico-Thalamo-Cortical Pathways by Selectively Activating Excitatory
   Neurons. The Journal of Neuroscience, 45(23), e2218242025. https://doi.org/10.1523/JNEUROSCI.2218-24.2025
-doi: 10.48324/dandi.000463/0.250711.1947
+doi: 10.48324/dandi.000463/0.250828.1934
 ethicsApproval: []
-id: DANDI:000463/0.250711.1947
+id: DANDI:000463/0.250828.1934
 identifier: DANDI:000463
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://dandiarchive.s3.amazonaws.com/dandisets/000463/0.250711.1947/assets.yaml
+- https://dandiarchive.s3.amazonaws.com/dandisets/000463/0.250828.1934/assets.yaml
 name: Electrophysiological Recordings in Anesthetized Rats in the Primary Somatosensory
   Cortex with Phased Ultrasound Array Stimulation
 publishedBy:
-  endDate: '2025-07-11T19:47:49.116802+00:00'
-  id: urn:uuid:f0b2f0d3-63f0-453e-8a92-383c53254023
+  endDate: '2025-08-28T19:34:15.908938+00:00'
+  id: urn:uuid:a9360384-99da-42d7-a913-33d4b58ef5e6
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2025-07-11T19:47:49.116802+00:00'
+  startDate: '2025-08-28T19:34:15.908938+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:cc9f4acb-fcec-4f0b-ba5e-6d3b9ef85236
+  - id: urn:uuid:768bf7a5-b83d-412d-a071-7fd55a77b10d
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
@@ -124,6 +128,6 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
-url: https://dandiarchive.org/dandiset/000463/0.250711.1947
-version: 0.250711.1947
+url: https://dandiarchive.org/dandiset/000463/0.250828.1934
+version: 0.250828.1934
 wasGeneratedBy: []
